@@ -42,7 +42,7 @@ Ce projet a été développé dans le cadre du Master MOSEF, à l'université Pa
 
 ## 📩 Contact
 
-Pour toute question, contactez-nous :
+N'hésitez pas à nous contacter pour toute question :
 
 - salmabenmoussa103@gmail.com 
 - charlottecegarrapro@gmail.com

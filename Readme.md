@@ -38,6 +38,7 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
 
 - **Salma BENMOUSSA**
 - **Charlotte CEGARRA**
+
 Ce projet a été développé dans le cadre du Master MOSEF, à l'université Paris 1 Panthéon Sorbonne.
 
 ## 📩 Contact

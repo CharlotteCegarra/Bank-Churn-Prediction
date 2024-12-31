@@ -26,7 +26,10 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
 /data             # Contient les jeux de données
     ├── train.csv  # Jeu de données d'entraînement
     └── test.csv   # Jeu de données de test
-/notebooks        # Contient le notebook principal
+/Modèles finaux    # Contient les deux modèles finaux
+    ├── CatBoost_predictions.csv  # Modèle le plus performant
+    └── XGboost_predictions.csv   # Second modèle le plus performant
+/notebook        # Contient le notebook principal
 /Présentation_Salma_Charlotte.pdf #Contient le support de présentation
 /README.md         # Ce fichier
 /requirements.txt # Liste des dépendances Python

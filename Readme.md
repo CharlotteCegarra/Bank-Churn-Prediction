@@ -23,10 +23,12 @@ Si vous souhaiter utiliser le projet, il faudra créer un environnement virtuel 
    ```bash
    pip install -r requirements.txt
 
+### Structure des fichiers
+```
 /notebooks        # Contient le notebook principal pour l'entraînement des modèles
 /data             # Contient les jeux de données
     ├── train.csv  # Jeu de données d'entraînement
     └── test.csv   # Jeu de données de test
 /requirements.txt # Liste des dépendances Python
 README.md         # Ce fichier
-
+```

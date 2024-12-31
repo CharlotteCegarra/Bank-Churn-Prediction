@@ -10,7 +10,7 @@ L'objectif principal du projet est de prédire la variable cible Churn, qui indi
 
 ## Prérequis
 
-Si vous souhaiter utiliser le projet, il faudra créer un environnement virtuel et installer les packages présent dan sle requirements.txt
+Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et installer les packages répertoriés dans le fichier `requirements.txt`.
 
 ## Installation
 
@@ -24,11 +24,12 @@ Si vous souhaiter utiliser le projet, il faudra créer un environnement virtuel 
    pip install -r requirements.txt
 
 ### Structure des fichiers
-```
-/notebooks        # Contient le notebook principal 
+``` 
 /data             # Contient les jeux de données
     ├── train.csv  # Jeu de données d'entraînement
     └── test.csv   # Jeu de données de test
+/notebooks        # Contient le notebook principal
+/Présentation_Salma_Charlotte.pdf #Contient le support de présentation
+/README.md         # Ce fichier
 /requirements.txt # Liste des dépendances Python
-README.md         # Ce fichier
 ```

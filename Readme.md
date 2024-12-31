@@ -23,7 +23,7 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
 
 ## Structure des fichiers
 ``` 
-/data             # Contient les jeux de données
+/Data             # Contient les jeux de données
     ├── train.csv  # Jeu de données d'entraînement
     └── test.csv   # Jeu de données de test
 /Modèles_finaux   # Contient les deux modèles finaux

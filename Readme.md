@@ -21,7 +21,7 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
    ```bash
    pip install -r requirements.txt
 
-### Structure des fichiers
+## Structure des fichiers
 ``` 
 /data             # Contient les jeux de données
     ├── train.csv  # Jeu de données d'entraînement
@@ -34,13 +34,13 @@ Pour utiliser ce projet, vous devez d'abord créer un environnement virtuel et i
 /README.md         # Ce fichier
 /requirements.txt # Liste des dépendances Python
 ```
-#### Contributeurs
+## Contributeurs
 
 - **Salma BENMOUSSA**
 - **Charlotte CEGARRA**
 Ce projet a été développé dans le cadre du Master MOSEF, à l'université Paris 1 Panthéon Sorbonne.
 
-##### 📩 Contact
+## 📩 Contact
 
 Pour toute question, contactez-nous :
 

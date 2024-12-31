@@ -25,7 +25,7 @@ Si vous souhaiter utiliser le projet, il faudra créer un environnement virtuel 
 
 ### Structure des fichiers
 ```
-/notebooks        # Contient le notebook principal pour l'entraînement des modèles
+/notebooks        # Contient le notebook principal 
 /data             # Contient les jeux de données
     ├── train.csv  # Jeu de données d'entraînement
     └── test.csv   # Jeu de données de test

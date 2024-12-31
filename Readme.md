@@ -2,8 +2,6 @@
 
 ## Description
 
-Voici la reformulation de la description de ton projet :
-
 Le jeu de données Bank Customer Churn est fréquemment utilisé pour prédire l'attrition des clients dans le secteur bancaire. Ce projet vise à développer un modèle capable de prédire si un client quittera la banque ou continuera d'y être fidèle. Les jeux de données contiennent des informations détaillées sur les clients, incluant leurs caractéristiques démographiques, comportementales, ainsi que des données sur leurs interactions avec la banque.
 
 L'objectif principal du projet est de prédire la variable cible Churn, qui indique si un client a quitté la banque ou non, en utilisant différentes techniques de modélisation et d'optimisation. L'accent est mis sur l'optimisation de la performance des modèles en maximisant l'AUC (Area Under the Curve). 
